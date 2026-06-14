@@ -1,0 +1,3 @@
+S001|Ali Hassan|ali@fast.edu|Regular||Active|
+S002|Sara Khan|sara@fast.edu|Scholarship||Active|3.0
+S003|John Smith|john@fast.edu|Exchange||Active|

@@ -1,0 +1,11 @@
+============================================================
+                     EXAM SCHEDULE
+============================================================
+Section     Course        Venue     TimeSlot        Duration
+------------------------------------------------------------
+SEC001      CS101         V001      MON-08:00       180 min
+SEC002      CS201         V002      MON-08:00       180 min
+SEC003      CS301         V003      MON-08:00       120 min
+SEC004      CS401         N/A       N/A             No exam (Lab)
+
+  All sections scheduled successfully — no conflicts.

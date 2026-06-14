@@ -1,0 +1,4 @@
+CS101|Intro to Programming|T001|Core
+CS201|Data Structures|T001|Core
+CS301|Web Development|T002|Elective
+CS401|Database Lab|T002|Lab
